@@ -1,12 +1,3 @@
-/* -----------------------------------------------
-/* Author : Ossama Rafique
-/* Email: contact@ossamarafique.com
-/* Website: https://www.ossamarafique.com
-/* MIT license: http://opensource.org/licenses/MIT
-/* GitHub : https://github.com/OssamaRafique/Interactive-Image-Particles
-/* For Documentation open readme.md
-/* v1.0
-/* ----------------------------------------------- */
 var ImageParticles = {
 
     // Settings
